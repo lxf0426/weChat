@@ -1,0 +1,40 @@
+#map{
+  flex:1;
+}
+.img_left{
+    height: auto;
+    position: fixed;
+    left:80rpx;
+    bottom:140rpx;
+    z-index: 9;
+    width: 60rpx;
+    height: 60rpx;
+}
+.img_right{
+    height: auto;
+    position: fixed;
+    right:80rpx;
+    bottom:140rpx;
+    z-index: 9;
+     width: 60rpx;
+    height: 60rpx;
+    border: 4px solid black;
+    border-radius: 50%;
+    background: black;
+}
+.box{
+    width: 100%;
+    height: 110rpx;
+    position: fixed;
+    bottom:0;
+    left:0;
+    /* background: red; */
+}
+.box Button{
+    background: black;
+    color:white;
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+}

@@ -1,0 +1,53 @@
+.head{
+    width: 100%;
+    height: 400rpx;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con{
+    width: 140rpx;
+    height: 140rpx;
+    border: 1px solid white;
+    background: white;
+    border-radius: 50%;
+    line-height:140rpx;
+    text-align: center;
+    margin:0 auto;
+}
+Image{
+    width: 100rpx;
+    height: 100rpx;
+    margin:18rpx auto;
+}
+.section{
+    width: 100%;
+    height: auto;
+    background: white;
+}
+.section .item{
+    border-bottom: 1px solid #ccc;
+    height: 120rpx;
+    line-height:120rpx;
+    display: flex;
+}
+Icon{
+    width: 10%;
+    margin-top: 38rpx;
+    margin-left: 38rpx;
+}
+.section .item Text{
+    line-height: 88rpx;  
+}
+.lis{
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.lis Image{
+    width: 40rpx;
+    height: 40rpx;
+    margin-left: 440rpx;
+}

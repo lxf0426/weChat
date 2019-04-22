@@ -1,0 +1,61 @@
+page{
+    background: #eee;
+}
+.head_t{
+    width: 100%;
+    height: 88rpx;
+    line-height: 88rpx;
+    display: block;
+    margin-left: 30rpx;
+}
+.itemList{
+    display: flex;
+    width: 100%;
+    height: 88rpx;
+    line-height: 88rpx;
+    justify-content: space-around;
+    background: white;
+    border: 1px solid #ccc;
+}
+.itemList Input{
+    display: flex;
+    align-items: center;
+   margin:auto 0;
+   height: 88rpx;
+}
+.itemList Text{
+    padding-left: 10rpx;
+}
+.textare{
+    width: 90%;
+    height: 200rpx;
+    border: 1px solid #ccc;
+    margin-left: 28rpx;
+}
+.box Button{
+    background-color:#999;
+    color:#fff;
+    margin-top: 30rpx;
+   
+}
+.container{
+    position: fixed;
+    bottom:0;
+    left:0
+}
+.cont_Pocker{
+    width: 100%;
+}
+.itemList .picker{
+    display: flex;
+    width: 100%;
+    height: 88rpx;
+    line-height: 88rpx;
+    justify-content: space-between;
+    background: white;
+    padding:0 40rpx;
+    box-sizing: border-box;
+}
+.picker:last-child{
+    padding-right: 260rpx;
+}
