@@ -13,10 +13,11 @@ class App extends Component {
 
   config = {
     pages: [
-     
+      'pages/list/index',
       'pages/index/index' ,
+      'pages/address/address',
+      'pages/addPost/add',
       'pages/mine/mine',
-      'pages/addPost/add'
       
     ],
     permission:{

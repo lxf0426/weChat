@@ -2,6 +2,7 @@ import Taro , { Component } from '@tarojs/taro';
 import { View, Text , Button,Image,Icon} from '@tarojs/components';
 import my from "../../images/my.png"
 import right from "../../images/arrow.svg"
+import "./mine.css"
  class Index extends Component {
 
    config = {

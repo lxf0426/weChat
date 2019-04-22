@@ -1,0 +1,11 @@
+.head_cont{
+    width: 100%;
+    height: 88rpx;
+    background: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.active{
+    color:blue;
+}

@@ -16,6 +16,7 @@ page{
     justify-content: space-around;
     background: white;
     border: 1px solid #ccc;
+    margin:40rpx 0;
 }
 .itemList Input{
     display: flex;

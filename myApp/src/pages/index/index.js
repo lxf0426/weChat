@@ -66,7 +66,7 @@ export default class Index extends Component {
   bindmarkertap="markertap"
   bindregionchange="regionchange"
   show-location
-  style="width: 100%;height:1000rpx;"
+  style="width: 100%;height:1080rpx;"
 ></Map>
 <CoverView className="box">
       <Button onClick={this.handelClick}>
